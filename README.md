@@ -48,6 +48,16 @@ This project implements the processing and classification of microbial images:
 5. Object Detection:
    - Faster R-CNN
 
+## My Role
+
+This was a team-based academic computer vision project.
+
+My contributions included:
+- Implementing and comparing selected deep learning models
+- Running experiments and collecting evaluation metrics
+- Analyzing segmentation and classification performance
+- Preparing technical documentation and result summaries
+
 ## Performance Evaluation Results
 
 ### Image Segmentation Performance Comparison
