@@ -1,5 +1,21 @@
 # Environmental Microorganism Image Analysis Using Deep Learning
 
+## Executive Summary
+
+This project compares classical computer vision and deep learning methods for environmental microorganism image analysis.
+
+The pipeline includes:
+- Image denoising
+- Image segmentation
+- Feature extraction
+- Image classification
+- Object detection
+
+Key results:
+- U-Net++ with DnCNN denoising achieved 93.65% IoU for segmentation.
+- ResNet-18 achieved 94.64% validation accuracy for classification.
+- Deep learning methods significantly outperformed traditional feature-based methods in this experiment.
+
 ## Project Introduction
 
 This project aims to develop and compare different computer vision methods for processing and analyzing environmental microorganism images. This technology has wide applications in the real world:
